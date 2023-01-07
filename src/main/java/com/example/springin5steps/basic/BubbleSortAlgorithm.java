@@ -1,4 +1,4 @@
-package com.example.springin5steps;
+package com.example.springin5steps.basic;
 
 import org.springframework.stereotype.Component;
 

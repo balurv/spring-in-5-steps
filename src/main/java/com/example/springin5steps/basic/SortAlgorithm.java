@@ -1,4 +1,4 @@
-package com.example.springin5steps;
+package com.example.springin5steps.basic;
 
 public interface SortAlgorithm {
 	public int[] sort(int[] numbers) ;

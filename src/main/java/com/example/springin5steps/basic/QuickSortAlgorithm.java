@@ -1,6 +1,5 @@
-package com.example.springin5steps;
+package com.example.springin5steps.basic;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
